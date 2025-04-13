@@ -1,0 +1,11 @@
+venv
+images
+sample_submission.csv
+test.csv
+train.csv
+submission.csv
+__pycache__
+.idea
+checkpoint.pth
+notebook.ipynb
+score.png

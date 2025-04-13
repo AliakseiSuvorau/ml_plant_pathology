@@ -1,0 +1,7 @@
+timm
+pandas
+opencv-python
+transforms
+scikit-learn
+albumentations
+torchmetrics
